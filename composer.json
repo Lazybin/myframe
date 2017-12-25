@@ -1,0 +1,6 @@
+{
+    "name": "able/framework",
+    "require": {
+        "php": ">=5.6.4"
+    }
+}
